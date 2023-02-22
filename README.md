@@ -12,5 +12,8 @@ TODO:
 - Make it on Golang
 
 ```bash
-$ git clone 
+$ git clone git@github.com:mahauni/sorting_algorithms.git
+$ cd <language of your choice>
+
+and than run the main file in the directory
 ```
